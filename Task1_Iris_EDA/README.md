@@ -40,10 +40,15 @@ In this task, the following steps were performed:
 
 The following visualizations were created:
 
-- **Scatter Plot:** To understand relationship between features and class separation  
-- **Histogram:** To analyze distribution of each feature  
-- **Boxplot:** To detect outliers and understand data spread  
+- **Scatter Plot:** To understand relationship between features and class separation
+- ![Scatter Plot](images/Sepal.png)
+-  ![Scatter Plot](images/SPetal.png)
+- **Histogram:** To analyze distribution of each feature
+- ![Histogram](images/hist.png)
+- **Boxplot:** To detect outliers and understand data spread
+- ![Boxplot](images/Boxplot.png)
 - **Pairplot:** To visualize relationships between all features together
+- ![Pairplot](images/Pair.png)
 
 ---
 
