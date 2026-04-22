@@ -41,7 +41,7 @@ In this task, the following steps were performed:
 The following visualizations were created:
 
 - **Scatter Plot:** To understand relationship between features and class separation
-- ![Scatter Plot](images/Sepal.png)
+- ![Scatter Plot](images/Sepal.PNG)
 -  ![Scatter Plot](images/SPetal.png)
 - **Histogram:** To analyze distribution of each feature
 - ![Histogram](images/hist.png)
