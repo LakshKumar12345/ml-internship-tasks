@@ -42,7 +42,7 @@ The following visualizations were created:
 
 - **Scatter Plot:** To understand relationship between features and class separation
 - ![Scatter Plot](images/Sepal.PNG)
--  ![Scatter Plot](images/SPetal.PNG)
+-  ![Scatter Plot](images/Petal.PNG)
 - **Histogram:** To analyze distribution of each feature
 - ![Histogram](images/hist.PNG)
 - **Boxplot:** To detect outliers and understand data spread
