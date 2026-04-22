@@ -1,6 +1,6 @@
 
 
-# 🌸 Task 1: Iris Dataset Exploratory Data Analysis (EDA)
+#  Task 1: Iris Dataset Exploratory Data Analysis (EDA)
 
 ## 📌 Objective
 The objective of this task is to explore and understand the Iris dataset using basic data analysis and visualization techniques before applying machine learning models.
