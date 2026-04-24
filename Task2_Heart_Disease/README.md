@@ -85,13 +85,13 @@ We performed data visualization to understand patterns:
 ## 🖼 Visualizations
 
 ### Confusion Matrix
-![Confusion Matrix](images/confuse.PNG)
+![Confusion Matrix](images/confusion.PNG)
 
 ### ROC Curve
 ![ROC Curve](images/roccurve.PNG)
 
 ### Feature Importance
-![Feature Importance](images/fsexvstarget.PNG)
+![Feature Importance](images/sexvstarget.PNG)
 
 ---
 
