@@ -91,7 +91,7 @@ We performed data visualization to understand patterns:
 ![ROC Curve](images/roccurve.PNG)
 
 ### Feature Importance
-![Feature Importance](images/sexvstarget.PNG)
+![Feature Importance](images/features.PNG)
 
 ---
 
