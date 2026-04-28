@@ -88,6 +88,7 @@ This internship helped me strengthen my understanding of:
 
 **Laksh Kumar**
 AI/ML Engineering Intern
+DHC-3606
 DevelopersHub Corporation
 
 ---
