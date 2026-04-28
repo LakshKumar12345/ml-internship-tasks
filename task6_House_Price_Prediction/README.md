@@ -134,7 +134,7 @@ We performed data visualization to understand relationships between features and
 * Some deviations exist due to data variability
 
 ### 📊 Error Distribution  
-![Error Distribution](images/error_distribution.PNG)
+![Error Distribution](images/error.PNG)
 
 👉 Most errors are close to zero, indicating good model performance.
 ---
