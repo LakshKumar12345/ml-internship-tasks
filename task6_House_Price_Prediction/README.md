@@ -178,20 +178,7 @@ A simple Linear Regression model is sufficient for predicting house prices in th
 
 ---
 
-## 📂 Project Structure
 
-```
-House-Price-Prediction/
-│
-├── images/
-│   ├── area_vs_price.png
-│   ├── location_vs_price.png
-│   ├── actual_vs_predicted.png
-│
-├── notebook.ipynb
-├── README.md
-└── dataset.csv
-```
 
 ---
 
